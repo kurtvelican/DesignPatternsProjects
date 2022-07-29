@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\ytm\hayvanlarOdev\hayvanlarOdev\hayvanlarOdev\bin\Debug\hayvanlarOdev.exe
+D:\Veli Can\Projeler\ytm\hayvanlarOdev\hayvanlarOdev\hayvanlarOdev\bin\Debug\hayvanlarOdev.pdb
+D:\Veli Can\Projeler\ytm\hayvanlarOdev\hayvanlarOdev\hayvanlarOdev\obj\Debug\hayvanlarOdev.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\ytm\hayvanlarOdev\hayvanlarOdev\hayvanlarOdev\obj\Debug\hayvanlarOdev.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\ytm\hayvanlarOdev\hayvanlarOdev\hayvanlarOdev\obj\Debug\hayvanlarOdev.exe
+D:\Veli Can\Projeler\ytm\hayvanlarOdev\hayvanlarOdev\hayvanlarOdev\obj\Debug\hayvanlarOdev.pdb
