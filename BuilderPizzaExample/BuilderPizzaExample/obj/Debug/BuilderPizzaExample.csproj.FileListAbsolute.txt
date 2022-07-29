@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\BuilderPizzaExample\BuilderPizzaExample\bin\Debug\BuilderPizzaExample.exe
+D:\Veli Can\Projeler\YTM\BuilderPizzaExample\BuilderPizzaExample\bin\Debug\BuilderPizzaExample.pdb
+D:\Veli Can\Projeler\YTM\BuilderPizzaExample\BuilderPizzaExample\obj\Debug\BuilderPizzaExample.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\BuilderPizzaExample\BuilderPizzaExample\obj\Debug\BuilderPizzaExample.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\BuilderPizzaExample\BuilderPizzaExample\obj\Debug\BuilderPizzaExample.exe
+D:\Veli Can\Projeler\YTM\BuilderPizzaExample\BuilderPizzaExample\obj\Debug\BuilderPizzaExample.pdb

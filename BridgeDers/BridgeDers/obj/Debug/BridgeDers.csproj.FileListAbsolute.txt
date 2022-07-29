@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\BridgeDers\BridgeDers\bin\Debug\BridgeDers.exe
+D:\Veli Can\Projeler\YTM\BridgeDers\BridgeDers\bin\Debug\BridgeDers.pdb
+D:\Veli Can\Projeler\YTM\BridgeDers\BridgeDers\obj\Debug\BridgeDers.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\BridgeDers\BridgeDers\obj\Debug\BridgeDers.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\BridgeDers\BridgeDers\obj\Debug\BridgeDers.exe
+D:\Veli Can\Projeler\YTM\BridgeDers\BridgeDers\obj\Debug\BridgeDers.pdb

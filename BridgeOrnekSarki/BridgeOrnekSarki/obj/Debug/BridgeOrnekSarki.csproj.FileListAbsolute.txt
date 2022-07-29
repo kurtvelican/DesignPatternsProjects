@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\BridgeOrnekSarki\BridgeOrnekSarki\bin\Debug\BridgeOrnekSarki.exe
+D:\Veli Can\Projeler\YTM\BridgeOrnekSarki\BridgeOrnekSarki\bin\Debug\BridgeOrnekSarki.pdb
+D:\Veli Can\Projeler\YTM\BridgeOrnekSarki\BridgeOrnekSarki\obj\Debug\BridgeOrnekSarki.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\BridgeOrnekSarki\BridgeOrnekSarki\obj\Debug\BridgeOrnekSarki.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\BridgeOrnekSarki\BridgeOrnekSarki\obj\Debug\BridgeOrnekSarki.exe
+D:\Veli Can\Projeler\YTM\BridgeOrnekSarki\BridgeOrnekSarki\obj\Debug\BridgeOrnekSarki.pdb
