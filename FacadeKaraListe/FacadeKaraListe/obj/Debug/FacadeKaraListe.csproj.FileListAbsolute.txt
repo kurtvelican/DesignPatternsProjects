@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\FacadeKaraListe\FacadeKaraListe\bin\Debug\FacadeKaraListe.exe
+D:\Veli Can\Projeler\YTM\FacadeKaraListe\FacadeKaraListe\bin\Debug\FacadeKaraListe.pdb
+D:\Veli Can\Projeler\YTM\FacadeKaraListe\FacadeKaraListe\obj\Debug\FacadeKaraListe.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\FacadeKaraListe\FacadeKaraListe\obj\Debug\FacadeKaraListe.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\FacadeKaraListe\FacadeKaraListe\obj\Debug\FacadeKaraListe.exe
+D:\Veli Can\Projeler\YTM\FacadeKaraListe\FacadeKaraListe\obj\Debug\FacadeKaraListe.pdb

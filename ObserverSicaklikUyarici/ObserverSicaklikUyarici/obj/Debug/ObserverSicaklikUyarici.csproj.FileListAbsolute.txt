@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\ObserverSicaklikUyarici\ObserverSicaklikUyarici\bin\Debug\ObserverSicaklikUyarici.exe
+D:\Veli Can\Projeler\YTM\ObserverSicaklikUyarici\ObserverSicaklikUyarici\bin\Debug\ObserverSicaklikUyarici.pdb
+D:\Veli Can\Projeler\YTM\ObserverSicaklikUyarici\ObserverSicaklikUyarici\obj\Debug\ObserverSicaklikUyarici.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\ObserverSicaklikUyarici\ObserverSicaklikUyarici\obj\Debug\ObserverSicaklikUyarici.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\ObserverSicaklikUyarici\ObserverSicaklikUyarici\obj\Debug\ObserverSicaklikUyarici.exe
+D:\Veli Can\Projeler\YTM\ObserverSicaklikUyarici\ObserverSicaklikUyarici\obj\Debug\ObserverSicaklikUyarici.pdb

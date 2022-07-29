@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\OSBridgeOrnek\OSBridgeOrnek\bin\Debug\OSBridgeOrnek.exe
+D:\Veli Can\Projeler\YTM\OSBridgeOrnek\OSBridgeOrnek\bin\Debug\OSBridgeOrnek.pdb
+D:\Veli Can\Projeler\YTM\OSBridgeOrnek\OSBridgeOrnek\obj\Debug\OSBridgeOrnek.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\OSBridgeOrnek\OSBridgeOrnek\obj\Debug\OSBridgeOrnek.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\OSBridgeOrnek\OSBridgeOrnek\obj\Debug\OSBridgeOrnek.exe
+D:\Veli Can\Projeler\YTM\OSBridgeOrnek\OSBridgeOrnek\obj\Debug\OSBridgeOrnek.pdb

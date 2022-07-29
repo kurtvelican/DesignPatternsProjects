@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\ytm\MailKutusuOdev\MailKutusuOdev\bin\Debug\MailKutusuOdev.exe
+D:\Veli Can\Projeler\ytm\MailKutusuOdev\MailKutusuOdev\bin\Debug\MailKutusuOdev.pdb
+D:\Veli Can\Projeler\ytm\MailKutusuOdev\MailKutusuOdev\obj\Debug\MailKutusuOdev.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\ytm\MailKutusuOdev\MailKutusuOdev\obj\Debug\MailKutusuOdev.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\ytm\MailKutusuOdev\MailKutusuOdev\obj\Debug\MailKutusuOdev.exe
+D:\Veli Can\Projeler\ytm\MailKutusuOdev\MailKutusuOdev\obj\Debug\MailKutusuOdev.pdb

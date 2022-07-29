@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\ObserverDers\ObserverDers\bin\Debug\ObserverDers.exe
+D:\Veli Can\Projeler\YTM\ObserverDers\ObserverDers\bin\Debug\ObserverDers.pdb
+D:\Veli Can\Projeler\YTM\ObserverDers\ObserverDers\obj\Debug\ObserverDers.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\ObserverDers\ObserverDers\obj\Debug\ObserverDers.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\ObserverDers\ObserverDers\obj\Debug\ObserverDers.exe
+D:\Veli Can\Projeler\YTM\ObserverDers\ObserverDers\obj\Debug\ObserverDers.pdb
