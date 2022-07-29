@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\StrategyDers\StrategyDers\bin\Debug\StrategyDers.exe
+D:\Veli Can\Projeler\YTM\StrategyDers\StrategyDers\bin\Debug\StrategyDers.pdb
+D:\Veli Can\Projeler\YTM\StrategyDers\StrategyDers\obj\Debug\StrategyDers.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\StrategyDers\StrategyDers\obj\Debug\StrategyDers.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\StrategyDers\StrategyDers\obj\Debug\StrategyDers.exe
+D:\Veli Can\Projeler\YTM\StrategyDers\StrategyDers\obj\Debug\StrategyDers.pdb

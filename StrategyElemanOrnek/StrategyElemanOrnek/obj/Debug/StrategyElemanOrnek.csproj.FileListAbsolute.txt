@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\StrategyElemanOrnek\StrategyElemanOrnek\bin\Debug\StrategyElemanOrnek.exe
+D:\Veli Can\Projeler\YTM\StrategyElemanOrnek\StrategyElemanOrnek\bin\Debug\StrategyElemanOrnek.pdb
+D:\Veli Can\Projeler\YTM\StrategyElemanOrnek\StrategyElemanOrnek\obj\Debug\StrategyElemanOrnek.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\StrategyElemanOrnek\StrategyElemanOrnek\obj\Debug\StrategyElemanOrnek.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\StrategyElemanOrnek\StrategyElemanOrnek\obj\Debug\StrategyElemanOrnek.exe
+D:\Veli Can\Projeler\YTM\StrategyElemanOrnek\StrategyElemanOrnek\obj\Debug\StrategyElemanOrnek.pdb

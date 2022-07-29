@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\StateSoket\StateSoket\bin\Debug\StateSoket.exe
+D:\Veli Can\Projeler\YTM\StateSoket\StateSoket\bin\Debug\StateSoket.pdb
+D:\Veli Can\Projeler\YTM\StateSoket\StateSoket\obj\Debug\StateSoket.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\StateSoket\StateSoket\obj\Debug\StateSoket.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\StateSoket\StateSoket\obj\Debug\StateSoket.exe
+D:\Veli Can\Projeler\YTM\StateSoket\StateSoket\obj\Debug\StateSoket.pdb

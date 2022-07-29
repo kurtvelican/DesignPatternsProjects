@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\VisitorOdev\VisitorOdev\bin\Debug\VisitorOdev.exe
+D:\Veli Can\Projeler\YTM\VisitorOdev\VisitorOdev\bin\Debug\VisitorOdev.pdb
+D:\Veli Can\Projeler\YTM\VisitorOdev\VisitorOdev\obj\Debug\VisitorOdev.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\VisitorOdev\VisitorOdev\obj\Debug\VisitorOdev.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\VisitorOdev\VisitorOdev\obj\Debug\VisitorOdev.exe
+D:\Veli Can\Projeler\YTM\VisitorOdev\VisitorOdev\obj\Debug\VisitorOdev.pdb

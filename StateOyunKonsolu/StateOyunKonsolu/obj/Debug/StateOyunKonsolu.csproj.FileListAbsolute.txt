@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\StateOyunKonsolu\StateOyunKonsolu\bin\Debug\StateOyunKonsolu.exe
+D:\Veli Can\Projeler\YTM\StateOyunKonsolu\StateOyunKonsolu\bin\Debug\StateOyunKonsolu.pdb
+D:\Veli Can\Projeler\YTM\StateOyunKonsolu\StateOyunKonsolu\obj\Debug\StateOyunKonsolu.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\StateOyunKonsolu\StateOyunKonsolu\obj\Debug\StateOyunKonsolu.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\StateOyunKonsolu\StateOyunKonsolu\obj\Debug\StateOyunKonsolu.exe
+D:\Veli Can\Projeler\YTM\StateOyunKonsolu\StateOyunKonsolu\obj\Debug\StateOyunKonsolu.pdb
