@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\AdapterDers\AdapterDers\bin\Debug\AdapterDers.exe
+D:\Veli Can\Projeler\YTM\AdapterDers\AdapterDers\bin\Debug\AdapterDers.pdb
+D:\Veli Can\Projeler\YTM\AdapterDers\AdapterDers\obj\Debug\AdapterDers.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\AdapterDers\AdapterDers\obj\Debug\AdapterDers.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\AdapterDers\AdapterDers\obj\Debug\AdapterDers.exe
+D:\Veli Can\Projeler\YTM\AdapterDers\AdapterDers\obj\Debug\AdapterDers.pdb
