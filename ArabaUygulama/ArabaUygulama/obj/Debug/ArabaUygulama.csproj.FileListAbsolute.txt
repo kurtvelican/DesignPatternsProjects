@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\ytm\ArabaUygulama\ArabaUygulama\bin\Debug\ArabaUygulama.exe
+D:\Veli Can\Projeler\ytm\ArabaUygulama\ArabaUygulama\bin\Debug\ArabaUygulama.pdb
+D:\Veli Can\Projeler\ytm\ArabaUygulama\ArabaUygulama\obj\Debug\ArabaUygulama.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\ytm\ArabaUygulama\ArabaUygulama\obj\Debug\ArabaUygulama.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\ytm\ArabaUygulama\ArabaUygulama\obj\Debug\ArabaUygulama.exe
+D:\Veli Can\Projeler\ytm\ArabaUygulama\ArabaUygulama\obj\Debug\ArabaUygulama.pdb

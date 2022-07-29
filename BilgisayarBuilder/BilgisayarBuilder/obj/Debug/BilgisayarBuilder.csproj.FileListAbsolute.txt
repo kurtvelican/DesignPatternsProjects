@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\BilgisayarBuilder\BilgisayarBuilder\bin\Debug\BilgisayarBuilder.exe
+D:\Veli Can\Projeler\YTM\BilgisayarBuilder\BilgisayarBuilder\bin\Debug\BilgisayarBuilder.pdb
+D:\Veli Can\Projeler\YTM\BilgisayarBuilder\BilgisayarBuilder\obj\Debug\BilgisayarBuilder.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\BilgisayarBuilder\BilgisayarBuilder\obj\Debug\BilgisayarBuilder.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\BilgisayarBuilder\BilgisayarBuilder\obj\Debug\BilgisayarBuilder.exe
+D:\Veli Can\Projeler\YTM\BilgisayarBuilder\BilgisayarBuilder\obj\Debug\BilgisayarBuilder.pdb

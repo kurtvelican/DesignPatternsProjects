@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgisayarBuilder", "BilgisayarBuilder\BilgisayarBuilder.csproj", "{64FF570C-2E7A-48D0-A322-6D693BE07D14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64FF570C-2E7A-48D0-A322-6D693BE07D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FF570C-2E7A-48D0-A322-6D693BE07D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FF570C-2E7A-48D0-A322-6D693BE07D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FF570C-2E7A-48D0-A322-6D693BE07D14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

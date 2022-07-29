@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\AkilliEvSistemiFacade\AkilliEvSistemiFacade\bin\Debug\AkilliEvSistemiFacade.exe
+D:\Veli Can\Projeler\YTM\AkilliEvSistemiFacade\AkilliEvSistemiFacade\bin\Debug\AkilliEvSistemiFacade.pdb
+D:\Veli Can\Projeler\YTM\AkilliEvSistemiFacade\AkilliEvSistemiFacade\obj\Debug\AkilliEvSistemiFacade.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\AkilliEvSistemiFacade\AkilliEvSistemiFacade\obj\Debug\AkilliEvSistemiFacade.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\AkilliEvSistemiFacade\AkilliEvSistemiFacade\obj\Debug\AkilliEvSistemiFacade.exe
+D:\Veli Can\Projeler\YTM\AkilliEvSistemiFacade\AkilliEvSistemiFacade\obj\Debug\AkilliEvSistemiFacade.pdb
