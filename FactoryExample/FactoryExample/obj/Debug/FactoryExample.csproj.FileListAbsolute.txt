@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\ytm\FactoryExample\FactoryExample\bin\Debug\FactoryExample.exe
+D:\Veli Can\Projeler\ytm\FactoryExample\FactoryExample\bin\Debug\FactoryExample.pdb
+D:\Veli Can\Projeler\ytm\FactoryExample\FactoryExample\obj\Debug\FactoryExample.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\ytm\FactoryExample\FactoryExample\obj\Debug\FactoryExample.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\ytm\FactoryExample\FactoryExample\obj\Debug\FactoryExample.exe
+D:\Veli Can\Projeler\ytm\FactoryExample\FactoryExample\obj\Debug\FactoryExample.pdb
