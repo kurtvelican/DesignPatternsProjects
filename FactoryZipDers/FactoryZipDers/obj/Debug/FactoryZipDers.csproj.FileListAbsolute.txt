@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\ytm\FactoryZipDers\FactoryZipDers\bin\Debug\FactoryZipDers.exe
+D:\Veli Can\Projeler\ytm\FactoryZipDers\FactoryZipDers\bin\Debug\FactoryZipDers.pdb
+D:\Veli Can\Projeler\ytm\FactoryZipDers\FactoryZipDers\obj\Debug\FactoryZipDers.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\ytm\FactoryZipDers\FactoryZipDers\obj\Debug\FactoryZipDers.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\ytm\FactoryZipDers\FactoryZipDers\obj\Debug\FactoryZipDers.exe
+D:\Veli Can\Projeler\ytm\FactoryZipDers\FactoryZipDers\obj\Debug\FactoryZipDers.pdb
