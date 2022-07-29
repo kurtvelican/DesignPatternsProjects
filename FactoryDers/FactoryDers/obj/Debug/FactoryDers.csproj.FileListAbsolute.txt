@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\ytm\FactoryDers\FactoryDers\bin\Debug\FactoryDers.exe
+D:\Veli Can\Projeler\ytm\FactoryDers\FactoryDers\bin\Debug\FactoryDers.pdb
+D:\Veli Can\Projeler\ytm\FactoryDers\FactoryDers\obj\Debug\FactoryDers.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\ytm\FactoryDers\FactoryDers\obj\Debug\FactoryDers.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\ytm\FactoryDers\FactoryDers\obj\Debug\FactoryDers.exe
+D:\Veli Can\Projeler\ytm\FactoryDers\FactoryDers\obj\Debug\FactoryDers.pdb
