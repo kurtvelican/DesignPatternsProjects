@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\AbstractFactoryHddRamOrnek\AbstractFactoryHddRamOrnek\bin\Debug\AbstractFactoryHddRamOrnek.exe
+D:\Veli Can\Projeler\YTM\AbstractFactoryHddRamOrnek\AbstractFactoryHddRamOrnek\bin\Debug\AbstractFactoryHddRamOrnek.pdb
+D:\Veli Can\Projeler\YTM\AbstractFactoryHddRamOrnek\AbstractFactoryHddRamOrnek\obj\Debug\AbstractFactoryHddRamOrnek.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\AbstractFactoryHddRamOrnek\AbstractFactoryHddRamOrnek\obj\Debug\AbstractFactoryHddRamOrnek.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\AbstractFactoryHddRamOrnek\AbstractFactoryHddRamOrnek\obj\Debug\AbstractFactoryHddRamOrnek.exe
+D:\Veli Can\Projeler\YTM\AbstractFactoryHddRamOrnek\AbstractFactoryHddRamOrnek\obj\Debug\AbstractFactoryHddRamOrnek.pdb
