@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\AdapterDikdortgenKare\AdapterDikdortgenKare\bin\Debug\AdapterDikdortgenKare.exe
+D:\Veli Can\Projeler\YTM\AdapterDikdortgenKare\AdapterDikdortgenKare\bin\Debug\AdapterDikdortgenKare.pdb
+D:\Veli Can\Projeler\YTM\AdapterDikdortgenKare\AdapterDikdortgenKare\obj\Debug\AdapterDikdortgenKare.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\AdapterDikdortgenKare\AdapterDikdortgenKare\obj\Debug\AdapterDikdortgenKare.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\AdapterDikdortgenKare\AdapterDikdortgenKare\obj\Debug\AdapterDikdortgenKare.exe
+D:\Veli Can\Projeler\YTM\AdapterDikdortgenKare\AdapterDikdortgenKare\obj\Debug\AdapterDikdortgenKare.pdb

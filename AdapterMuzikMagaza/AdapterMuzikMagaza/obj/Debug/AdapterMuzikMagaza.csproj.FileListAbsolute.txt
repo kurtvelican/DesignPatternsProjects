@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\AdapterMuzikMagaza\AdapterMuzikMagaza\bin\Debug\AdapterMuzikMagaza.exe
+D:\Veli Can\Projeler\YTM\AdapterMuzikMagaza\AdapterMuzikMagaza\bin\Debug\AdapterMuzikMagaza.pdb
+D:\Veli Can\Projeler\YTM\AdapterMuzikMagaza\AdapterMuzikMagaza\obj\Debug\AdapterMuzikMagaza.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\AdapterMuzikMagaza\AdapterMuzikMagaza\obj\Debug\AdapterMuzikMagaza.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\AdapterMuzikMagaza\AdapterMuzikMagaza\obj\Debug\AdapterMuzikMagaza.exe
+D:\Veli Can\Projeler\YTM\AdapterMuzikMagaza\AdapterMuzikMagaza\obj\Debug\AdapterMuzikMagaza.pdb
