@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\CompositeDers\CompositeDers\bin\Debug\CompositeDers.exe
+D:\Veli Can\Projeler\YTM\CompositeDers\CompositeDers\bin\Debug\CompositeDers.pdb
+D:\Veli Can\Projeler\YTM\CompositeDers\CompositeDers\obj\Debug\CompositeDers.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\CompositeDers\CompositeDers\obj\Debug\CompositeDers.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\CompositeDers\CompositeDers\obj\Debug\CompositeDers.exe
+D:\Veli Can\Projeler\YTM\CompositeDers\CompositeDers\obj\Debug\CompositeDers.pdb

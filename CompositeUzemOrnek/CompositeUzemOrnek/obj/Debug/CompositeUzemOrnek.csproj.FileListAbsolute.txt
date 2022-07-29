@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\CompositeUzemOrnek\CompositeUzemOrnek\bin\Debug\CompositeUzemOrnek.exe
+D:\Veli Can\Projeler\YTM\CompositeUzemOrnek\CompositeUzemOrnek\bin\Debug\CompositeUzemOrnek.pdb
+D:\Veli Can\Projeler\YTM\CompositeUzemOrnek\CompositeUzemOrnek\obj\Debug\CompositeUzemOrnek.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\CompositeUzemOrnek\CompositeUzemOrnek\obj\Debug\CompositeUzemOrnek.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\CompositeUzemOrnek\CompositeUzemOrnek\obj\Debug\CompositeUzemOrnek.exe
+D:\Veli Can\Projeler\YTM\CompositeUzemOrnek\CompositeUzemOrnek\obj\Debug\CompositeUzemOrnek.pdb

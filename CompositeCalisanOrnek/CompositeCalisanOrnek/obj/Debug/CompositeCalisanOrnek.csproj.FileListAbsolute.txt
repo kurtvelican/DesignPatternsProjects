@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\CompositeCalisanOrnek\CompositeCalisanOrnek\bin\Debug\CompositeCalisanOrnek.exe
+D:\Veli Can\Projeler\YTM\CompositeCalisanOrnek\CompositeCalisanOrnek\bin\Debug\CompositeCalisanOrnek.pdb
+D:\Veli Can\Projeler\YTM\CompositeCalisanOrnek\CompositeCalisanOrnek\obj\Debug\CompositeCalisanOrnek.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\CompositeCalisanOrnek\CompositeCalisanOrnek\obj\Debug\CompositeCalisanOrnek.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\CompositeCalisanOrnek\CompositeCalisanOrnek\obj\Debug\CompositeCalisanOrnek.exe
+D:\Veli Can\Projeler\YTM\CompositeCalisanOrnek\CompositeCalisanOrnek\obj\Debug\CompositeCalisanOrnek.pdb

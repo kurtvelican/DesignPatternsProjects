@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\YTM\EEATelefonAdapterUygulama\EEATelefonAdapterUygulama\bin\Debug\EEATelefonAdapterUygulama.exe
+D:\Veli Can\Projeler\YTM\EEATelefonAdapterUygulama\EEATelefonAdapterUygulama\bin\Debug\EEATelefonAdapterUygulama.pdb
+D:\Veli Can\Projeler\YTM\EEATelefonAdapterUygulama\EEATelefonAdapterUygulama\obj\Debug\EEATelefonAdapterUygulama.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\YTM\EEATelefonAdapterUygulama\EEATelefonAdapterUygulama\obj\Debug\EEATelefonAdapterUygulama.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\YTM\EEATelefonAdapterUygulama\EEATelefonAdapterUygulama\obj\Debug\EEATelefonAdapterUygulama.exe
+D:\Veli Can\Projeler\YTM\EEATelefonAdapterUygulama\EEATelefonAdapterUygulama\obj\Debug\EEATelefonAdapterUygulama.pdb
