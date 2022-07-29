@@ -1,0 +1,6 @@
+D:\Veli Can\Projeler\ytm\SingletonUygulama\SingletonUygulama\bin\Debug\SingletonUygulama.exe
+D:\Veli Can\Projeler\ytm\SingletonUygulama\SingletonUygulama\bin\Debug\SingletonUygulama.pdb
+D:\Veli Can\Projeler\ytm\SingletonUygulama\SingletonUygulama\obj\Debug\SingletonUygulama.csproj.AssemblyReference.cache
+D:\Veli Can\Projeler\ytm\SingletonUygulama\SingletonUygulama\obj\Debug\SingletonUygulama.csproj.CoreCompileInputs.cache
+D:\Veli Can\Projeler\ytm\SingletonUygulama\SingletonUygulama\obj\Debug\SingletonUygulama.exe
+D:\Veli Can\Projeler\ytm\SingletonUygulama\SingletonUygulama\obj\Debug\SingletonUygulama.pdb
